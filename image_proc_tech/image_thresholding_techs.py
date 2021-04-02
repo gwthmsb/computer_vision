@@ -3,6 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import cv2
 
+"""
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html
+"""
 
 # importing image
 img = Image.open("giraffe.jpg")

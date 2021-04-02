@@ -3,6 +3,11 @@ from PIL import Image
 from matplotlib import pyplot as plt
 import numpy as np
 
+"""
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html
+"""
+
+
 image = Image.open('lena.png')
 #plt.imshow(image)
 #plt.show()
